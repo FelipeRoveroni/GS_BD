@@ -39,7 +39,7 @@ comment on column t_smts_usuario.dt_nascimento IS
 	 'Esse atributo irá receber a data de nascimento do Usuario. Seu conteúdo é obrigatório.';
 
 comment on column t_smts_usuario.fl_sexo_biologico IS
-	'Esse atributo irá receber a flag do sexo biológico de nascimento do Usuario. Os valores possíveis são (F)emea  ou (M)acho ou (I)ntersexual. Seu conteúdo é obrigatório.';
+	'Esse atributo irá receber a flag do sexo biológico de nascimento do Usuario. Os valores possíveis são (F)emea  ou (M)acho. Seu conteúdo é obrigatório.';
 	
 comment on column t_smts_usuario.meio_locomocao IS
 	'Esse atributo irá receber o Meio de Locomoção mais utilizado pelo Usuario. Seu conteudo é obrigatorio.';
@@ -47,7 +47,6 @@ comment on column t_smts_usuario.meio_locomocao IS
 ALTER TABLE t_smts_usuario
     ADD CONSTRAINT ck_smts_usuario_sexo CHECK ( fl_sexo_biologico IN (
         'F',
-        'I',
         'M'
     ) );
 	
