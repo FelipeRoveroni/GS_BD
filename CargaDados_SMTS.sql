@@ -120,28 +120,28 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'rafaelalana@gmail.com', 'cK69ymHTQP', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'heloise_aparicio@regional.com.br', '094QQj48c1', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'heloise_aparicio@regional.com.br', '094QQj48c1', 'Comercial', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'igoreliascosta@sectron.com.br', 'lOzfmi7ZZw', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'felipe-viana84@cathedranet.com.br', 'RlP6E4CdDw', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'felipe-viana84@cathedranet.com.br', 'RlP6E4CdDw', 'Comercial', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'kevin-costa80@cielo.com.br', '1rdHynJ4U2', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'kevin-costa80@cielo.com.br', '1rdHynJ4U2', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'sergio_rocha@acesse.net', 'jhhlTtczJ5', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'kaique_lucca_almada@hmhabitacoesmodernas.com.br', 'FQDgNtm5hG', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'kaique_lucca_almada@hmhabitacoesmodernas.com.br', 'FQDgNtm5hG', 'Comercial', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'daniel-peixoto89@balloons.com.br', '8rmPpUYSIQ', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'daniel-peixoto89@balloons.com.br', '8rmPpUYSIQ', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'rafael_sales@ativa.inf.br', 'bLsmWyXXTI', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'rafael_sales@ativa.inf.br', 'bLsmWyXXTI', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'heitor-cardoso79@seraobenedito.com.br', 'ok63CX1ymn', 'Pessoal', 'A' );
@@ -162,13 +162,13 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'sabrina_duarte@fingrs.com.br', 'UMnySl5Sff', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'tatianeesterlopes@iega.com.br', '5cwWZOre5Z', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'tatianeesterlopes@iega.com.br', '5cwWZOre5Z', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'rayssajoanacosta@outloock.com.br', 'zPG6rNUm94', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'vicente.geraldo.fernandes@ctfmgacc.org.br', '5RNBUbgUlD', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'vicente.geraldo.fernandes@ctfmgacc.org.br', '5RNBUbgUlD', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'elisa_rayssa_pinto@sicredi.com.br', 'DLQj5itOWm', 'Pessoal', 'A' );
@@ -183,16 +183,16 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'luis-cardoso90@eximiart.com.br', 'ND5LNLrOPb', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'caua-viana79@gap.com.br', 'pBFBJhopq1', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'caua-viana79@gap.com.br', 'pBFBJhopq1', 'Comercial', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'stefany.aurora.almeida@deca.com.br', 'or3Sp9xHUi', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'mario.elias.drumond@rjnet.com.br', 'kAeIKAABcT', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'mario.elias.drumond@rjnet.com.br', 'kAeIKAABcT', 'Pessoal', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'marcio.guilherme.aragao@uninet.com.br', 'JR2IzImccD', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'marcio.guilherme.aragao@uninet.com.br', 'JR2IzImccD', 'Comercial', 'I' );
 
 --
 --Carga da tabela contato usuario
