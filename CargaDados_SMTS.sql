@@ -36,16 +36,16 @@ insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep
     values(sq_smts_usuario.nextval, 'Heloise Cristiane Milena Aparício', '575.963.358-96', '48.929.993-3', '78141-024', '24/08/1995', 'F', 'Carro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Igor Elias Benício Costa', '446.332.496-30', '27.688.235-0', '64605-080', '03/09/1988', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Igor Elias Benício Costa', '446.332.496-30', '27.688.235-0', '64605-080', '03/09/1988', 'M', 'Trem');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Felipe João Antonio Viana', '774.553.854-80', '17.862.398-2', '69908-760', '01/03/1976', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Felipe João Antonio Viana', '774.553.854-80', '17.862.398-2', '69908-760', '01/03/1976', 'M', 'Metro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Kevin Nicolas Costa', '665.602.066-61', '10.868.700-4', '59123-026', '05/03/1962', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Kevin Nicolas Costa', '665.602.066-61', '10.868.700-4', '59123-026', '05/03/1962', 'M', 'Onibus');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Sérgio Luís Roberto Rocha', '379.391.784-31', '35.745.840-0', '68906-514', '07/06/1998', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Sérgio Luís Roberto Rocha', '379.391.784-31', '35.745.840-0', '68906-514', '07/06/1998', 'M', 'Bicicleta');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
     values(sq_smts_usuario.nextval, 'Kaique Lucca Luan Almada', '562.898.317-98', '29.525.884-6', '76908-472', '16/02/1948', 'M', 'Carro');
@@ -57,19 +57,19 @@ insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep
     values(sq_smts_usuario.nextval, 'Rafael Marcos Vinicius Sales', '395.601.039-62', '22.311.109-0', '37345-971', '24/03/1966', 'M', 'Carro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Heitor Raul Cardoso', '952.538.189-79', '36.537.498-2', '37704-176', '11/09/2000', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Heitor Raul Cardoso', '952.538.189-79', '36.537.498-2', '37704-176', '11/09/2000', 'M', 'Metro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Allana Heloise da Paz', '443.842.816-50', '46.455.775-6', '69557-775', '09/09/2002', 'F', 'Carro');
+    values(sq_smts_usuario.nextval, 'Allana Heloise da Paz', '443.842.816-50', '46.455.775-6', '69557-775', '09/09/2002', 'F', 'Bicicleta');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
     values(sq_smts_usuario.nextval, 'Mirella Fernanda Sandra da Mata', '016.625.826-17', '14.330.239-5', '08685-160', '11/05/1961', 'F', 'Carro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Alana Eduarda Jaqueline Teixeira', '669.463.765-95', '40.212.740-7', '49055-260', '07/11/2002', 'F', 'Carro');
+    values(sq_smts_usuario.nextval, 'Alana Eduarda Jaqueline Teixeira', '669.463.765-95', '40.212.740-7', '49055-260', '07/11/2002', 'F', 'Moto');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Lucas Marcos Diego Almeida', '396.881.756-76', '35.525.518-2', '76802-192', '19/04/2004', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Lucas Marcos Diego Almeida', '396.881.756-76', '35.525.518-2', '76802-192', '19/04/2004', 'M', 'Moto');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
     values(sq_smts_usuario.nextval, 'Sabrina Luciana Mariah Duarte', '295.086.954-80', '43.646.372-6', '38411-160', '14/07/1948', 'F', 'Carro');
@@ -84,13 +84,13 @@ insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep
     values(sq_smts_usuario.nextval, 'Vicente Geraldo Sérgio Fernandes', '416.731.535-18', '32.498.933-7', '65046-340', '12/01/2002', 'M', 'Carro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Elisa Rayssa Eloá Pinto', '532.362.372-10', '49.125.905-0', '26292-141', '10/04/1998', 'F', 'Carro');
+    values(sq_smts_usuario.nextval, 'Elisa Rayssa Eloá Pinto', '532.362.372-10', '49.125.905-0', '26292-141', '10/04/1998', 'F', 'Onibus');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Sophia Débora Pires', '050.492.677-22', '16.243.978-7', '72650-630', '12/09/1998', 'F', 'Carro');
+    values(sq_smts_usuario.nextval, 'Sophia Débora Pires', '050.492.677-22', '16.243.978-7', '72650-630', '12/09/1998', 'F', 'Trem');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
-    values(sq_smts_usuario.nextval, 'Elias Raul Igor Castro', '803.056.814-27', '26.233.848-8', '66845-340', '22/01/2003', 'M', 'Carro');
+    values(sq_smts_usuario.nextval, 'Elias Raul Igor Castro', '803.056.814-27', '26.233.848-8', '66845-340', '22/01/2003', 'M', 'Metro');
 
 insert into t_smts_usuario (id_usuario, nm_usuario, cpf_usuario, rg_usuario, cep_usuario, dt_nascimento, fl_sexo_biologico, meio_locomocao)
     values(sq_smts_usuario.nextval, 'Luís Osvaldo Theo Cardoso', '798.928.083-39', '18.261.651-4', '57073-460', '22/08/1974', 'M', 'Carro');
@@ -147,7 +147,7 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'heitor-cardoso79@seraobenedito.com.br', 'ok63CX1ymn', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'allana.heloise.dapaz@universo3d.com.br', '72me92wTui', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'allana.heloise.dapaz@universo3d.com.br', '72me92wTui', 'Comercial', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'mirella_damata@igoralcantara.com.br', 'GU4mJE5rSR', 'Pessoal', 'A' );
@@ -168,7 +168,7 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'rayssajoanacosta@outloock.com.br', 'zPG6rNUm94', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'vicente.geraldo.fernandes@ctfmgacc.org.br', '5RNBUbgUlD', 'Pessoal', 'I' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'vicente.geraldo.fernandes@ctfmgacc.org.br', '5RNBUbgUlD', 'Comercial', 'I' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'elisa_rayssa_pinto@sicredi.com.br', 'DLQj5itOWm', 'Pessoal', 'A' );
@@ -180,7 +180,7 @@ insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_e
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'elias_raul_castro@fedato.com.br', 'O9Xbq04eAZ', 'Pessoal', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
-    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'luis-cardoso90@eximiart.com.br', 'ND5LNLrOPb', 'Pessoal', 'A' );
+    values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'luis-cardoso90@eximiart.com.br', 'ND5LNLrOPb', 'Comercial', 'A' );
 
 insert into t_smts_email_usuario (id_email, id_usuario, ds_email, sh_email, tp_email, st_email)
     values(sq_smts_email.nextval, sq_smts_usuario.nextval, 'caua-viana79@gap.com.br', 'pBFBJhopq1', 'Comercial', 'A' );
@@ -208,13 +208,13 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','65', '98429-9194');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','89', '99880-1126');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','89', '99880-1126');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','68', '98986-3339');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','84', '99464-8508');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','84', '99464-8508');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','96', '99523-2800');
@@ -226,7 +226,7 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','51', '98300-5815');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','81', '99217-1694');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','81', '99217-1694');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','88', '99906-9591');
@@ -235,7 +235,7 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','41', '98478-4180');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','83', '99544-5447');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','83', '99544-5447');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','22', '99629-6906');
@@ -244,13 +244,13 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','73', '99793-0152');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','79', '98977-9822');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','79', '98977-9822');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','61', '99610-9859');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','61', '99610-9859');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','68', '99709-3920');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','68', '99709-3920');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','15', '98876-2923');
@@ -262,7 +262,7 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','11', '98346-3142');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','79', '99775-5645');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','79', '99775-5645');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','67', '98481-1314');
@@ -271,7 +271,7 @@ insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, n
     values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','82', '99207-2928');
 
 insert into t_smts_contato_usuario(id_usuario, id_contato, nm_contato, nr_ddd, nr_telefone)
-    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Pessoal','61', '98242-8287');
+    values(sq_smts_usuario.nextval, sq_smts_contato.nextval, 'Contato Comercial','61', '98242-8287');
 
 
 --Carga da tabela carro
